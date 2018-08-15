@@ -1,5 +1,7 @@
 # ~/.profile: executed by Bourne-compatible login shells.
 
+#test change
+
 if [ "$BASH" ]; then
   if [ -f ~/.bashrc ]; then
     . ~/.bashrc
